@@ -1,4 +1,4 @@
-## Hi there 👋
+This is my github profile please connect with me for projects if needed.
 
 <!--
 **ayush235813/ayush235813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
