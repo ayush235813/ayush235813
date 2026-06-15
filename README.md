@@ -94,6 +94,9 @@
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB"/><br/><sub><b>MongoDB</b></sub>
 </td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="48" height="48" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub>
+</td>
 </tr></table>
 
 #### Tools & DevOps
