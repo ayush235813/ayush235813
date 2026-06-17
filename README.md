@@ -138,7 +138,7 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ayush_verma2358?theme=dark&font=Nunito&ext=heatmap)
 
-**350+ Problems Solved** 🔥
+**370+ Problems Solved** 🔥
 
 </div>
 
